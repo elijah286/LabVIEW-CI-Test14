@@ -2,22 +2,7 @@
   "schema": 1,
   "repo": "elijah286/LabVIEW-CI-Test14",
   "sha": "d7597bdd36b989fa8c3d6994ba8322a0e8cca583",
-  "revisions": [
-    {
-      "sha": "d7597bdd36b989fa8c3d6994ba8322a0e8cca583",
-      "short": "d7597bd",
-      "message": "Add LabVIEW CI pipeline",
-      "author": "Elijah Kerry",
-      "date": "2026-06-24T18:31:19Z"
-    },
-    {
-      "sha": "c2350342e6b484aa9ba1b41a6a8c99f6d5bf4506",
-      "short": "c235034",
-      "message": "add",
-      "author": "Elijah Kerry",
-      "date": "2026-06-24T18:25:23Z"
-    }
-  ],
+  "revisions": [],
   "config": {
     "use": "",
     "actions": {},
